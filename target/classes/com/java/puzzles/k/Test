@@ -1,0 +1,84 @@
+Hashmap in Java  
+
+
+
+
+2 pointer approach
+
+One question involved checking whether a given three digit tuple contained either a prime number, or a power of primes.
+
+The second question involved finding the longest consecutive subsequence for an arbitrary number of lists.  
+
+Find the area of a rectangle based on grid array  
+
+
+ 
+Frage beantworten
+Output some things in a given format using basic OOP problem-solving skills  
+
+write code to breakdown a string which consisted of numbers and calculate the total weight in pounds  
+
+Round 3: 1 hour technical live coding on coderpad -1 algorithm question + 10-15 SQL queries with difficulty level of basic(select,project,min,max) to medium(joins,group by-having)
+
+
+
+Explain LRU algorithm used in caching?
+How to implement hashing?
+Stocks Buy-Sell problem
+
+
+
+
+Coding & OOD: For coding, they asked maximum subarray question, and for OOD the question was designing an elevator
+3) SQL design: They question was about a soccer tournament. We have a number of teams that are playing against each other. They asked me to design data base schema to store the teams, and results of the matches. Then, they asked me to write some queries.
+Basic string manipulation and SQL questions  
+
+
+Coding & OOD: For coding, they asked maximum subarray question, and for OOD the question was designing an elevator
+3) SQL design: They question was about a soccer tournament. We have a number of teams that are playing against each other. They asked me to design data base schema to store the teams, and results of the matches. Then, they asked me to write some queries.
+4) System design: They asked TinyURL question  
+
+
+
+http://www.bjaeagles.org/docs/eqmtve.php?id=d33925-intuit-karat-coding-challenge-questions
+
+
+
+
+
+
+<  Sorted  data>
+
+Programs:
+
+Given Diagram on white board:
+
+a1 --------- b1 ------------c1
+| | |
+| | |
+a2----------b2 ------------c2
+
+Given inputs:
+
+a1 -> b1 -> c1 -> c2 . -- your function should return true.
+a1 -> c1 -- return true
+a1 -> b2 -- return false. 
+
+
+Find longest matching contiguous elements in 2 arrays.   
+
+
+
+SQL:
+
+Aigpl2318@
+
+
+SQL queries
+
+Basic SQL queries with a few joins 
+
+difficulty level of basic(select,project,min,max) to medium(joins,group by-having)
+
+
+
